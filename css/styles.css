@@ -1,0 +1,30 @@
+body {
+    border: 2px solid red;
+}
+header {
+    border: 2px solid blue;
+}
+h1 {
+    border: 2px solid purple;
+}
+nav {
+    border: 2px solid purple;
+}
+a {
+    border: 2px solid black;
+}
+.main {
+    border: 2px solid blue;
+}
+section {
+    border: 2px solid purple;
+}
+p {
+    border: 2px solid black;
+}
+img {
+    border: 2px solid black;
+}
+footer {
+    border: 2px solid blue;
+}
